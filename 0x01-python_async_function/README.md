@@ -2,6 +2,8 @@
 
 ![image](https://github.com/ugoem/alx-backend-python/assets/24642339/c6eaeb50-d9dc-41fc-bb28-603c27d88d09)
 
+Asynchronous routines are able to “pause” while waiting on their ultimate result and let other routines run in the meantime. Asynchronous code, through the mechanism above, facilitates concurrent execution. To put it differently, asynchronous code gives the look and feel of concurrency.
+
 # Resources
 Read or watch:
 
