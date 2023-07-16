@@ -27,4 +27,4 @@ if __name__ == '__main__':
             result.append(i)
         print(result)
 
-    asyncio.run(print_yielded_values()
+    asyncio.run(print_yielded_values())
