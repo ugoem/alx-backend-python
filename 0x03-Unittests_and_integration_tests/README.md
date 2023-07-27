@@ -42,7 +42,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * All your functions and coroutines must be type-annotated.
 
 ## Required Files
-``utils.py`` (or download)
+## ``utils.py`` (or download)
 
 ```
 #!/usr/bin/env python3
